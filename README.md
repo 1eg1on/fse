@@ -1,5 +1,5 @@
 # FSE
 FSE final project, Skoltech\
-Bari Khairullin
-Vasiliy Viskov
+Bari Khairullin  
+Vasiliy Viskov  
 
