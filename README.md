@@ -1,3 +1,3 @@
 # FSE
-FSE final project, Skoltech
+FSE final project, Skoltech\
 Bari
