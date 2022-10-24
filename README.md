@@ -1,2 +1,2 @@
-# fse
+# FSE
 FSE final project, Skoltech
