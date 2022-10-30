@@ -9,16 +9,16 @@ Zubrey Alexander
 
 # Quickstart
 ## install cmake
-sudo apt-get update
-sudo apt-get install cmake
-sudo apt-get install build-essential
+    sudo apt-get update
+    sudo apt-get install cmake
+    sudo apt-get install build-essential
 
 ## install libglfw3
-sudo apt-get install libglfw3-dev
+    sudo apt-get install libglfw3-dev
 
 ## build
-cmake .
-make
+    cmake .
+    make
 
 After all of this run /bin/main
 
