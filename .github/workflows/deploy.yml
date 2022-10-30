@@ -1,8 +1,5 @@
 name: Deployment
-
-concurrency: 
-  group: production
-  cancel-in-progress: true
+run_name: Checking the push of the new code.
 
 on:
   push:
@@ -14,5 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     environment: production
     steps:
-      - name: deploy
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+      - run: echo 'push went well.'
         # ...deployment-specific steps
