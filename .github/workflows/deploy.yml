@@ -1,5 +1,5 @@
 name: Deployment
-run_name: Checking the push of the new code.
+run-name: Checking the push of the new code.
 
 on:
   push:
