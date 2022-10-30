@@ -4,3 +4,4 @@ Bari Khairullin
 Vasiliy Viskov  
 Max Komatovskiy
 Nikita Andreev
+Zubrey Alexander
